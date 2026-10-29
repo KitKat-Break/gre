@@ -48,13 +48,16 @@ In the nineteenth century, two houses were found in the course of creating the r
 - Pelletier, A. 1982. *Vienne Antique: De la Conquête Romaine aux Invasions Alamanniques (IIe Siècle Avant–IIIe Siècle Après J.-C.)*, 172–76. Roanne: Éditions Horvath. [(worldcat)](https://search.worldcat.org/title/10996966)
 - Leblanc, J. 1881. “Rapport sur les Fouilles Archéologiques Faites à Vienne en 1879–1880.” *Bulletin Épigraphique de la Gaule* 1:231–36. [(worldcat)](https://search.worldcat.org/title/32053469)
 - Bouet, A. 2003. *Les Thermes Privés e Publics en Gaule Narbonnaise*. Volume 2 (catalogue, coll.), 366–67, fig. 270. Rome: École Française de Rome. [(worldcat)](https://search.worldcat.org/title/315092589)
+Source to cite: https://www.romeartlover.it/Vienne2.html
+Source to cite: https://www.exarc.org/oam/muse-gallo-romain-de-saint-romain-en-gal
+Source to cite: https://www.cambridge.org/core/books/gardens-of-the-roman-empire/garden-in-the-domus/E940ADD950EC491AD8E7D30008C95813
 
 TO DO: PUT OTHER SOURCES!!!
 -->
 
 ## Keywords
 
-- {{< keyword "terrace" >}}
+- {{< keyword "terraces (landscaped-site elements)" >}}
 - {{< keyword "peristyles (Roman courtyards)" >}}
 - {{< keyword "porticoes" >}}
 
