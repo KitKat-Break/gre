@@ -44,11 +44,10 @@ In the nineteenth century, two houses were found in the course of creating the r
 
 
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 - Pelletier, A. 1982. *Vienne Antique: De la Conquête Romaine aux Invasions Alamanniques (IIe Siècle Avant–IIIe Siècle Après J.-C.)*, 172–76. Roanne: Éditions Horvath. [(worldcat)](https://search.worldcat.org/title/10996966)
 - Leblanc, J. 1881. “Rapport sur les Fouilles Archéologiques Faites à Vienne en 1879–1880.” *Bulletin Épigraphique de la Gaule* 1:231–36. [(worldcat)](https://search.worldcat.org/title/32053469)
 - Bouet, A. 2003. *Les Thermes Privés e Publics en Gaule Narbonnaise*. Volume 2 (catalogue, coll.), 366–67, fig. 270. Rome: École Française de Rome. [(worldcat)](https://search.worldcat.org/title/315092589)
-- Morvillez, E. 2017. "The Garden in the Domus". In *Gardens of the Roman Empire*, edited by W. F. Jashemski, K. L. Gleason, K. J. Hartswick, and A.-A. Malek 17-71. Cambridge: Cambridge University Press
+- Morvillez, E. 2017. "The Garden in the Domus". In *Gardens of the Roman Empire*, edited by W. F. Jashemski, K. L. Gleason, K. J. Hartswick, and A.-A. Malek 17-71. Cambridge: Cambridge University Press. [(worldcat)](https://search.worldcat.org/title/8158381183)
 <!--
 Source to cite: https://www.romeartlover.it/Vienne2.html
 Source to cite: https://www.exarc.org/oam/muse-gallo-romain-de-saint-romain-en-gal
